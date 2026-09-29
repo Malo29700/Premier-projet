@@ -1,4 +1,4 @@
-def saluer(nom="monde"):
+def saluer(nom="Malo"):
     return f"Bonjour, {nom} !"
 
 
